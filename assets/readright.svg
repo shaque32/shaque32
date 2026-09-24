@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="265" viewBox="0 0 580 265" role="img" aria-label="ReadRight">
+<rect x="1" y="1" width="578" height="263" rx="18" fill="#17152b" stroke="#34304d"/>
+<rect x="1" y="25" width="4" height="55" rx="2" fill="#f472b6"/>
+<circle cx="535" cy="40" r="72" fill="#f472b6" opacity=".045"/>
+<text x="28" y="36" fill="#f472b6" font-family="monospace" font-size="12" letter-spacing="1.5">04 / INTERACTIVE LEARNING</text>
+<g transform="translate(516 28)" fill="none" stroke="#f472b6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4Q3-2-5 1v25q8-3 17 3 9-6 17-3V1q-8-3-17 3v25M0 7l6 2M0 13l6 2M18 9l6-2M18 15l6-2"/></g>
+<text x="28" y="95" fill="#f4f0ff" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="29">ReadRight</text>
+<text x="28" y="136" fill="#b9b3ce" font-family="Arial,Helvetica,sans-serif" font-size="20">A cooperative reading-game prototype</text>
+<text x="28" y="165" fill="#b9b3ce" font-family="Arial,Helvetica,sans-serif" font-size="20">for students and teachers.</text>
+<path d="M28 195H552" stroke="#34304d"/>
+<text x="28" y="230" fill="#f472b6" font-family="monospace" font-size="13" letter-spacing=".7">TYPESCRIPT / REACT</text>
+<path d="M528 232l15-15m-13 0h13v13" stroke="#f472b6" fill="none" stroke-width="2"/>
+</svg>
