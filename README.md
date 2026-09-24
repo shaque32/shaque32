@@ -3,7 +3,7 @@
 CS @ Johns Hopkins. ML systems, sports analytics, and software.
 
 Currently working on [LineupOptimization](https://www.lineupoptimization.com/).<br />
-Previously at the Baltimore Ravens and Werfen.
+Previously at Werfen.
 
 #### languages
 
