@@ -1,17 +1,10 @@
-## `shayan haque`
+## `Shayan Haque`
 
 CS @ Johns Hopkins. ML systems, sports analytics, and software.
 
 Currently working on [LineupOptimization](https://www.lineupoptimization.com/).<br />
 Previously at Werfen.
 
-#### languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,java,kotlin&theme=dark&perline=6" width="248" alt="Python, C++, TypeScript, JavaScript, Java, Kotlin" />
-
-#### frameworks & tools
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,pytorch,postgres,docker&theme=dark&perline=6" width="248" alt="React, Next.js, FastAPI, PyTorch, PostgreSQL, Docker" />
 
 #### selected work
 
