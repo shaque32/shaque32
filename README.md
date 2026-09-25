@@ -6,7 +6,7 @@ Currently working on [LineupOptimization](https://www.lineupoptimization.com/).<
 Previously at Werfen.
 
 
-#### selected work
+#### Selected Work
 
 - [lineup optimization](https://www.lineupoptimization.com/) — baseball lineup analytics
 - [transformer inference](https://github.com/shaque32/cuda-transformer-inference-runtime) — a PyTorch reference and C++ runtime
