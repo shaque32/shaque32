@@ -2,7 +2,7 @@
 
 CS @ Johns Hopkins. ML systems, sports analytics, and software.
 
-Currently working on [LineupOptimization](https://www.lineupoptimization.com/).<br />
+Currently working on [Mabillon](https://getmabillon.com) & [LineupOptimization](https://www.lineupoptimization.com/).<br />
 Previously at Werfen.
 
 
